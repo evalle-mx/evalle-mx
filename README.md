@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Ernesto
+#- 👋 Hi, My name is Ernesto#
 - 👀 I’m interested in Software Programming, and security Quality Tester analyst
 - 🌱 I’m currently learning Software Quality Assurance and Python
 - 💞️ I’m looking to collaborate on a Great company around Waterloo, ON area
