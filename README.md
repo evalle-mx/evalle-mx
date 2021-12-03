@@ -6,7 +6,7 @@
   - REST microservices
   - JSON
   - HTML5/CSS
-  - Javascript, Angular, JQuery
+  - Javascript, AngularJS, JQuery
   - Knowledge on Python, C#, NodeJs.
 - 👀 I’m interested in Software Programming, and security Quality Tester analyst
 - 🌱 I’m currently learning Software Quality Assurance and Python
