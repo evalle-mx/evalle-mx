@@ -1,13 +1,13 @@
 👋 Ernesto Valle, Software Developer with Postgraduate Certificates on Cybersecurity and Sofware Quality Assurance
 - 💞️ Different programming languages, IDEs and Tools
-  - Java J2EE
-  - Spring, Spring Boot
-  - Hibernate
-  - REST microservices
-  - JSON
-  - HTML5/CSS
+  - Java J2EE [Spring, Spring Boot, Hibernate, JSF, ]
+  - NodeJS
+  - MongoDB
+  - MySql, PostgreSQL
+  - REST
+  - JSON, HTML5/CSS
   - Javascript, AngularJS, JQuery
-  - Knowledge on Python, C#, NodeJs.
+  - Knowledge on Python, C#
 - 👀 I’m interested in Software Programming, and security Quality Tester analyst
 - 🌱 I’m currently learning Software Quality Assurance and Python
 - 📫 you can reach me via email to evalle-mx@gmail.com
